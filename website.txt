@@ -1,0 +1,14 @@
+
+Hey there!
+Hi, I’m Eddy, a University of Manchester student, passionate about Data and Machine Learning. Thanks for getting to know more about me!
+
+
+About Me
+An aspiring Machine Learning and Data Scientist, I am currently studying an Advanced Computer Science: Artificial Intelligence MSc at The University of Manchester and then looking for a graduate job in Manchester or London at a small Startup or fast-moving companies. I aspire to work on complicated problems, where I can develop my innovative, user-oriented problem-solving skills to help create smart solutions.
+
+
+
+
+I am looking to build on the knowledge of Python, PyTorch and Neural Networks built in my Research Internship at the University of Liverpool, while continuing to implement cutting edge algorithms and models. Due to my deep desire to always be learning and improving myself, I would preferably find a job in London, or possibly another big city, to work where other ambitious people are attracted.
+In my recent position with Unilever in the Materials Innovation Factory, I was able to develop my Data Visualisation with Power BI and data processing using Python scripts. I also developed my ability to work in a team, communicate and plan how to run larger projects. Further developing these, along with my leadership skills, with time spent as a committee member in two university societies. I also improved my ability to identify what value can be provided to our members as I help plan and run events with an external speaker and companies.
+I am an active person, playing lacrosse, climbing or going to the gym most days of the week. I spend my spare time working on side projects, that have the potential to be a full business in due course but will develop my coding ability in the short term. In descending proficiency order, I am familiar with the following coding languages and packages: Python, PyTorch, Pandas, SQL, Java and C++
